@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1485892808 source:c:\users\win 8\desktop\rawski\c++\projektkovalchm\czas.cpp
+	"czas.h"
+	<ctime>
+	<iostream>
+
+1485940780 c:\users\win 8\desktop\rawski\c++\projektkovalchm\czas.h
+
+1485889843 source:c:\users\win 8\desktop\rawski\c++\projektkovalchm\dbio.cpp
+	"dbio.h"
+	<fstream>
+	<ostream>
+	<iostream>
+	<map>
+
+1485888712 c:\users\win 8\desktop\rawski\c++\projektkovalchm\dbio.h
+	<map>
+	"row.h"
+	"dbmeth.h"
+
+1485940739 c:\users\win 8\desktop\rawski\c++\projektkovalchm\row.h
+	<string>
+	<iostream>
+
+1485940961 c:\users\win 8\desktop\rawski\c++\projektkovalchm\dbmeth.h
+	"row.h"
+	<map>
+	<string>
+	"czas.h"
+
+1485888400 source:c:\users\win 8\desktop\rawski\c++\projektkovalchm\row.cpp
+	"row.h"
+
+1485892765 source:c:\users\win 8\desktop\rawski\c++\projektkovalchm\dbmeth.cpp
+	"dbmeth.h"
+	<cstdio>
+	"czas.h"
+
+1485894970 source:c:\users\win 8\desktop\rawski\c++\projektkovalchm\main.cpp
+	<iostream>
+	"row.h"
+	"dbio.h"
+	"dbmeth.h"
+	<stdlib.h>
+	<string>
+	"czas.h"
+
